@@ -20,6 +20,6 @@ This project demonstrates real-time eye tracking using computer vision technique
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mouse-tracking-eye-pupil.git
+   git clone https://github.com/mukilan1/Mouse_Tracking-with-eye-pupil-.git
    cd mouse-tracking-eye-pupil
    pip install -r requirements.py
